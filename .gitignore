@@ -1,0 +1,23 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Ignore specific notebooks
+NOTEBOOKS/01_Data_Loading.ipynb
+NOTEBOOKS/02_Model_Training.ipynb
+NOTEBOOKS/03_Evaluation.ipynb
+
+# folders
+cat_VS_dog/
+PYTORCH/
+MODEL/
+MODELS/
+
